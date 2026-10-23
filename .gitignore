@@ -1,0 +1,15 @@
+# File Excel do tools/build_keyword_workbook.py sinh ra — build lại từ markets/*.json
+out/*.xlsx
+!out/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# File tạm của Office / hệ điều hành
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini

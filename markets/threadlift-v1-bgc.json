@@ -1,0 +1,970 @@
+{
+  "zone": {
+    "ten": "Xline Thread Lift · V1 · BGC – McKinley Hill",
+    "ma": "threadlift-v1-bgc",
+    "nganh": "Aesthetic · Dermatology (non-surgical)",
+    "ten_file": "PHI _ Google Ads _ ThreadLift V1 BGC",
+    "ds_phu_dinh_chung": "PHI - Phu dinh toan tai khoan",
+    "ngan_sach_thang": 150000,
+    "thuong_hieu": "Sunwoo Aesthetic Center · Taguig, Philippines",
+    "muc_tieu": "Tối ưu theo CHI PHÍ/KHÁCH ĐẾN KHÁM, không theo CPL. Thứ tự ưu tiên chỉ số: ① chi phí/show-up ② tỷ lệ lead→booking ③ tỷ lệ booking→đến khám ④ CPL (chỉ dùng để chẩn đoán).",
+    "markets": "V1 (BGC · McKinley Hill · Taguig) + V2 (Makati · Pasay · Mandaluyong · Pasig) ở Pha 2",
+    "tang": "V1 · lõi — 5–15 phút tới phòng khám",
+    "ngon_ngu": "English chuẩn (Google Search + landing) · Taglish (Meta creative + Messenger)",
+    "rui_ro_qc": "🔴 CAO — health product theo RA 9711, cần FDA PH duyệt nội dung. ⛔ Cấm cam kết kết quả, cấm tuyên bố tối cao. Tra kn-rao-phap-ly-ph.md trước mọi output.",
+    "ghi_chu_ngan_sach": "₱150.000/tháng là GIẢ ĐỊNH ĐẦU VÀO để chạy thử công thức. [CHỜ XÁC NHẬN] ngân sách thật từ chủ đầu tư.",
+    "don_vi_tien": "PHP (₱)",
+    "claim_cam": [
+      {
+        "tu": "written guarantee",
+        "ly_do": "cam kết kết quả điều trị, chưa có T&C văn bản — xem kn-ho-so-thuong-hieu-sunwoo.md §6 lỗi ③"
+      },
+      {
+        "tu": "#1 k-beauty",
+        "ly_do": "tuyên bố tối cao, cần bằng chứng theo chuẩn ASC — lỗi ④"
+      },
+      {
+        "tu": "best clinic in the philippines",
+        "ly_do": "tuyên bố tối cao thiếu bằng chứng"
+      },
+      {
+        "tu": "300++ doctors",
+        "ly_do": "con số sai rõ rệt trên trang production — lỗi ①"
+      }
+    ]
+  },
+  "chan_dung": [
+    {
+      "ma": "CD1",
+      "ten": "Nữ 34–45, làm văn phòng ở BGC, sống trong bán kính 15 phút, bắt đầu thấy chảy xệ vùng má và đường hàm",
+      "insight": "\"Tôi chưa muốn phẫu thuật. Tôi chỉ muốn nhìn đỡ mệt mỏi hơn, mà thứ Hai vẫn đi làm được.\" Người gõ chính là người điều trị. Vùng V1, đi khám buổi trưa được nên downtime là yếu tố quyết định chứ không phải giá. Đã đọc về thread lift trên Instagram nhưng không biết giữ được bao lâu.",
+      "rao_can": "BỀN — sợ làm xong một năm lại phải làm tiếp, và không ai nói cho biết tổng chi phí dài hạn",
+      "chang_vao": "S2-S4",
+      "chien_dich": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost · PHI | V1 | ThreadLift | S2 | Thread vs Filler",
+      "gia_tri_ca": "Cao"
+    },
+    {
+      "ma": "CD2",
+      "ten": "Nữ 38–50, V1/V2, đã tiêm filler ở nơi khác và không hài lòng",
+      "insight": "\"Tôi tiêm filler chỗ kia, mặt bị nặng và không tự nhiên. Lần này tôi muốn biết ai là người cầm kim.\" Đã mất niềm tin vào cả ngành. Không hỏi giá trước, hỏi bác sĩ trước. Trả được CPC cao nhất trong bộ này.",
+      "rao_can": "NGỜ — không tin vào phòng khám nói chung, cần bằng chứng về NGƯỜI chứ không phải về MÁY",
+      "chang_vao": "S3-S5",
+      "chien_dich": "PHI | V1 | ThreadLift | S3 | Safety & Who Performs It · PHI | V1 | ThreadLift | S5 | Book BGC",
+      "gia_tri_ca": "Rất cao"
+    },
+    {
+      "ma": "CD3",
+      "ten": "Nữ 30–40, V2 (Makati/Ortigas), nhạy giá, đang so nhiều phòng khám",
+      "insight": "\"Chỗ nào cũng ghi starts at. Tôi muốn biết thật sự hết bao nhiêu trước khi mất một buổi chiều đi tư vấn.\" Vượt EDSA là một quyết định có chi phí thật với họ — phải đáng mới đi.",
+      "rao_can": "NGẠI — tiền và thời gian đi lại. Cần lý do đủ mạnh để vượt C5/EDSA",
+      "chang_vao": "S4-S5",
+      "chien_dich": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost",
+      "gia_tri_ca": "Cao"
+    },
+    {
+      "ma": "CD4",
+      "ten": "Nam 35–48, quản lý/chủ doanh nghiệp ở BGC, muốn nhìn tỉnh táo hơn nhưng không muốn ai biết",
+      "insight": "\"Tôi không muốn trông như vừa đi làm gì đó.\" Ưu tiên tuyệt đối: kết quả tự nhiên + riêng tư + không downtime. Giá gần như không phải vấn đề.",
+      "rao_can": "NGẠI — riêng tư và downtime. Phòng riêng và lịch ngoài giờ là đòn bẩy, không phải giá",
+      "chang_vao": "S3-S5",
+      "chien_dich": "PHI | V1 | ThreadLift | S3 | Safety & Who Performs It · PHI | V1 | ThreadLift | S5 | Book BGC",
+      "gia_tri_ca": "Rất cao"
+    },
+    {
+      "ma": "CD5",
+      "ten": "Người Hàn 35–50 sống tại McKinley Hill",
+      "insight": "\"Ở Seoul tôi có chỗ quen. Ở đây có chỗ nào làm đúng chuẩn đó không?\" So sánh với phòng khám ở Seoul, không so với phòng khám Philippines. Tìm bằng tiếng Hàn, dùng KakaoTalk.",
+      "rao_can": "NGỜ — tiêu chuẩn kỹ thuật so với Hàn Quốc",
+      "chang_vao": "S5",
+      "chien_dich": "[PHA 3 — chưa bật] PHI | V1 | ThreadLift | S5 | Korean Community",
+      "gia_tri_ca": "Rất cao"
+    }
+  ],
+  "chien_dich": [
+    {
+      "ten": "PHI | V1 | ThreadLift | S2 | Thread vs Filler",
+      "uu_tien": "P3",
+      "vai_tro": "Hứng khách còn đang chọn PHƯƠNG PHÁP. Nuôi phễu, không chốt. ⛔ Không bán Sunwoo ở chặng này.",
+      "ty_trong": 0.12,
+      "diem": {
+        "y_dinh": 2,
+        "gia_tri": 4,
+        "kha_nang_chot": 2
+      },
+      "bid": "Manual CPC, bid thấp. Mục tiêu là micro-conversion (tải bộ tiêu chí so sánh), không phải lead.",
+      "chi_tieu": "Không đấu top 1. Chấp nhận vị trí 3-4 ở chi phí thấp."
+    },
+    {
+      "ten": "PHI | V1 | ThreadLift | S3 | Safety & Who Performs It",
+      "uu_tien": "P2",
+      "vai_tro": "Gỡ rào SỢ và NGỜ. Phục vụ CD2 và CD4 — hai chân dung giá trị ca cao nhất.",
+      "ty_trong": 0.18,
+      "diem": {
+        "y_dinh": 3,
+        "gia_tri": 5,
+        "kha_nang_chot": 3
+      },
+      "bid": "Manual CPC trung bình. Chấp nhận CPC cao cho cụm 'gone wrong' và 'revision' — đó là CD2.",
+      "chi_tieu": "Đo bằng micro-conversion (tải bộ câu hỏi cho bác sĩ), không đo bằng lead trực tiếp."
+    },
+    {
+      "ten": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost",
+      "uu_tien": "P1",
+      "vai_tro": "★ CHẶNG QUYẾT ĐỊNH của gói này. Gỡ rào BỀN. Cạnh tranh thấp nhất cả phễu vì gần như không đối thủ nào làm trang trả lời 'how many sessions' và 'how long does it last'.",
+      "ty_trong": 0.3,
+      "diem": {
+        "y_dinh": 4,
+        "gia_tri": 5,
+        "kha_nang_chot": 4
+      },
+      "bid": "Manual CPC. Bid đủ để giữ top 2 — chi phí ở đây vẫn rẻ hơn S5 đáng kể.",
+      "chi_tieu": "⛔ KHÔNG đánh giá bằng CPL. Nêu tổng chi phí sẽ làm CPL xấu đi và làm tỷ lệ đến khám tốt lên."
+    },
+    {
+      "ten": "PHI | V1 | ThreadLift | S5 | Book BGC",
+      "uu_tien": "P1",
+      "vai_tro": "Chốt. Khách đã chọn phương pháp, đang chọn nơi làm.",
+      "ty_trong": 0.32,
+      "diem": {
+        "y_dinh": 5,
+        "gia_tri": 5,
+        "kha_nang_chot": 5
+      },
+      "bid": "Bid cao nhất tài khoản. Exact cho cụm chốt, Phrase cho biến thể vùng.",
+      "chi_tieu": "Đây là chiến dịch duy nhất đo trực tiếp bằng lead và booking."
+    },
+    {
+      "ten": "PHI | V2 | ThreadLift | S4 | Sessions & Total Cost",
+      "uu_tien": "P2",
+      "vai_tro": "Mở rộng sang V2 (Makati/Ortigas). Phục vụ CD3 — người phải vượt EDSA nên cần lý do đủ mạnh.",
+      "ty_trong": 0.08,
+      "diem": {
+        "y_dinh": 4,
+        "gia_tri": 4,
+        "kha_nang_chot": 3
+      },
+      "bid": "Thấp hơn V1 15–20%. Theo dõi riêng chi phí/show-up — khoảng cách đi lại ăn vào tỷ lệ đến khám.",
+      "chi_tieu": "Bật từ tuần 3, sau khi V1 đã có dữ liệu nền để so sánh."
+    }
+  ],
+  "cap_uu_tien": [
+    {
+      "cap": "P1",
+      "quy_tac": "Bật trước, ngân sách ưu tiên, theo dõi hằng tuần theo vùng V1–V4."
+    },
+    {
+      "cap": "P2",
+      "quy_tac": "Bật từ tuần 3, sau khi P1 có dữ liệu nền."
+    },
+    {
+      "cap": "P3",
+      "quy_tac": "Bật khi P1+P2 đã ổn định chi phí/show-up 4 tuần liền."
+    }
+  ],
+  "phieu": {
+    "cpc": 60,
+    "click_lead": 0.04,
+    "lead_lich": 0.35,
+    "show_up": 0.55,
+    "chot": 0.3,
+    "gia_tri_ca": 45000,
+    "ghi_chu": {
+      "cpc": "GIẢ ĐỊNH ĐẦU VÀO (₱). Chạy 2 tuần Manual CPC rồi thay bằng số thật. [CHỜ XÁC NHẬN]",
+      "click_lead": "GIẢ ĐỊNH. Trang L3 dài và phải đọc nhiều nên tỷ lệ thấp hơn trang chốt là bình thường.",
+      "lead_lich": "GIẢ ĐỊNH. Phụ thuộc nặng vào thời gian phản hồi lần đầu — xem kn-quy-trinh-tuan-ph.md §4.",
+      "show_up": "GIẢ ĐỊNH cho V1 (5-15 phút). V2 đặt thấp hơn ~15 điểm vì kẹt xe là biến số thật.",
+      "chot": "GIẢ ĐỊNH — thay bằng số thật từ CRM. [CHỜ XÁC NHẬN]",
+      "gia_tri_ca": "⛔ CON SỐ NÀY LÀ PLACEHOLDER ĐỂ CHẠY THỬ CÔNG THỨC, KHÔNG PHẢI GIÁ THẬT. [CHỜ XÁC NHẬN] giá trị ca trung bình Xline Thread Lift từ kế toán trước khi dùng file này để quyết ngân sách."
+    }
+  },
+  "nguyen_tac": [
+    "⛔ MỌI dòng từ khoá phải khai geo_mode = Presence. Phòng khám có một cơ sở, khách phải đến tận nơi.",
+    "market = người gõ ĐANG Ở ĐÂU (V1-V4), KHÔNG phải thành phố trong chuỗi từ khoá.",
+    "Chỉ số trục là chi phí/khách ĐẾN KHÁM. CPL chỉ dùng để chẩn đoán.",
+    "Ngân sách V1 + V2 >= 70%. V3 chỉ mở cho dịch vụ giá trị ca cao. V4 mặc định LOẠI.",
+    "Ngân sách theo chặng: S4 >= 20%, S3 >= 15%, S5 >= 30%. Chia theo ý định mua x giá trị ca, KHÔNG theo lượng tìm kiếm.",
+    "Mỗi chặng một landing riêng. ⛔ Không đổ mọi chiến dịch về trang chủ.",
+    "Trang L3 (S4) bắt buộc đủ ba khối B07 số buổi, B08 tổng chi phí, B09 giữ bao lâu + chi phí duy trì.",
+    "⛔ Không xuất bất kỳ mẫu nào dẫn về trang còn lỗi ① (300++ doctors) và lỗi ② (dental/plastic surgery) — xem hồ sơ thương hiệu §6.",
+    "⛔ Không dùng từ 'guarantee' dù trang production đang dùng. Thuộc nhóm từ cấm.",
+    "Ngôn ngữ: Google Search + landing = English chuẩn. Meta creative + Messenger = Taglish.",
+    "⛔ Không gửi tham số dịch vụ vào pixel quảng cáo. Chỉ gửi sự kiện Lead."
+  ],
+  "landing": [
+    {
+      "ma_ten": "LP1: Thread lift hay filler — chọn thế nào",
+      "loai": "L1 - So sánh cách làm",
+      "chang": "S2",
+      "chan_dung": "CD1, CD3",
+      "rao_can": "NGỜ — chưa biết phương pháp nào hợp với mình",
+      "noi_dung": "Bảng so sánh TRUNG LẬP hai phương pháp: tác động lên gì, giữ bao lâu, downtime, ai hợp ai không. ⛔ Không bán Sunwoo ở trang này. ⛔ Không nói filler xấu. Kết thúc bằng bộ tiêu chí để khách tự chọn.",
+      "cta": "Tải bộ tiêu chí so sánh (PDF)",
+      "micro": "Tải PDF — không cần số điện thoại, chỉ cần email"
+    },
+    {
+      "ma_ten": "LP2: Thread lift có an toàn không — ai là người làm",
+      "loai": "L2 - Trả lời thẳng",
+      "chang": "S3",
+      "chan_dung": "CD2, CD4",
+      "rao_can": "SỢ + NGỜ — sợ biến chứng, ngờ về tay nghề",
+      "noi_dung": "B01 hero là câu khách tự hỏi. B02 trả lời ngắn ngay trong 2 dòng. B04 quy trình từng bước kèm CẢM GIÁC THẬT. B05 bác sĩ: Diplomate PDS + PRC + đào tạo. B11 ai KHÔNG nên làm. ⛔ Không dùng ảnh kết quả đẹp thay cho câu trả lời.",
+      "cta": "Tải bộ câu hỏi nên hỏi bác sĩ trước khi làm",
+      "micro": "Tải PDF trước form"
+    },
+    {
+      "ma_ten": "LP3: Cần mấy buổi, giữ được bao lâu, tổng hết bao nhiêu",
+      "loai": "L3 - Liệu trình & chi phí",
+      "chang": "S4",
+      "chan_dung": "CD1, CD3",
+      "rao_can": "BỀN — sợ phải trả tiền mãi mà không ai nói trước",
+      "noi_dung": "★ TRANG QUAN TRỌNG NHẤT. Bắt buộc đủ B07 (bảng liệu trình từng buổi), B08 (giá/buổi VÀ giá trọn gói), B09 (giữ bao lâu + nhịp duy trì + chi phí duy trì/năm). Phép thử: đọc xong khách có tính được mình tốn bao nhiêu trong 12 tháng tới không. ⛔ KHÔNG XUẤT khi chưa có [CHỜ XÁC NHẬN] mục 1-2.",
+      "cta": "Tải bảng liệu trình & chi phí (PDF)",
+      "micro": "Tải PDF — đây là đúng thứ khách đang thiếu, đổi được liên hệ mà không phải cam kết gì"
+    },
+    {
+      "ma_ten": "LP4: Đặt lịch tư vấn miễn phí tại BGC",
+      "loai": "L4 - Đặt lịch",
+      "chang": "S5",
+      "chan_dung": "CD2, CD3, CD4",
+      "rao_can": "NGẠI — tiền, thời gian, đi lại",
+      "noi_dung": "B01 ngắn. B08 khoảng chi phí. B10 downtime bằng giờ. B12 vị trí + chỉ đường + CHỖ ĐỖ XE + giờ mở cửa. B05 bác sĩ. B14 form 4 trường. Nút gọi + Messenger dính đáy màn hình.",
+      "cta": "Đặt lịch tư vấn miễn phí với bác sĩ",
+      "micro": "Chat Messenger hỏi giá — rào thấp nhất ở PH, nhưng PHẢI có người trực"
+    },
+    {
+      "ma_ten": "LP5: 한국 고객 전용 — McKinley Hill",
+      "loai": "L5 - Cộng đồng Hàn",
+      "chang": "S5",
+      "chan_dung": "CD5",
+      "rao_can": "NGỜ — tiêu chuẩn kỹ thuật so với Seoul",
+      "noi_dung": "[PHA 3 — chưa dựng] Toàn bộ tiếng Hàn. Lập luận trục: chuẩn Seoul, ngay tại McKinley Hill, không phải bay về. ⛔ KHÔNG dựng trang này khi phòng khám chưa có nhân sự nói tiếng Hàn — lead về không ai nghe máy được.",
+      "cta": "KakaoTalk / đặt lịch",
+      "micro": "KakaoTalk channel"
+    }
+  ],
+  "hanh_trinh": [
+    {
+      "chang": "S1 NHẬN BIẾT",
+      "chan_dung": "—",
+      "tam_ly": "Thấy mặt chảy xệ nhưng chưa biết có cách nào ngoài phẫu thuật.",
+      "rao_can": "—",
+      "chien_dich": "Không chạy Search chốt",
+      "tu_khoa": "what is thread lift · non surgical facelift",
+      "thong_diep": "Giáo dục nhẹ, chưa bán",
+      "bang_chung": "—",
+      "lp": "—",
+      "chuyen_doi": "—",
+      "sau_lead": "—",
+      "kpi": "—",
+      "tiep_theo": "Nuôi bằng TikTok/Instagram content, không bằng Search ads"
+    },
+    {
+      "chang": "S2 SO SÁNH CÁCH LÀM",
+      "chan_dung": "CD1, CD3",
+      "tam_ly": "Đã biết có thread lift. Đang phân vân giữa thread lift và filler.",
+      "rao_can": "NGỜ",
+      "chien_dich": "PHI | V1 | ThreadLift | S2 | Thread vs Filler",
+      "tu_khoa": "thread lift vs filler · is thread lift worth it",
+      "thong_diep": "So sánh trung lập, đưa tiêu chí để khách tự chọn",
+      "bang_chung": "Bảng so sánh tác động, thời gian giữ, downtime",
+      "lp": "LP1",
+      "chuyen_doi": "Tải bộ tiêu chí so sánh",
+      "sau_lead": "Email chuỗi 3 bài, dẫn sang S3",
+      "kpi": "Chi phí/micro-conversion",
+      "tiep_theo": "S3 nếu khách mở email về an toàn"
+    },
+    {
+      "chang": "S3 NỖI SỢ & AN TOÀN",
+      "chan_dung": "CD2, CD4",
+      "tam_ly": "Đã chọn thread lift. Giờ sợ đau, sợ lòi chỉ, sợ không tự nhiên.",
+      "rao_can": "SỢ + NGỜ",
+      "chien_dich": "PHI | V1 | ThreadLift | S3 | Safety & Who Performs It",
+      "tu_khoa": "thread lift side effects · does thread lift hurt · thread lift gone wrong",
+      "thong_diep": "Gọi tên nỗi lo rồi trả lời NGAY, không vòng vo",
+      "bang_chung": "Diplomate PDS · PRC · quy trình từng bước · ai không nên làm",
+      "lp": "LP2",
+      "chuyen_doi": "Tải bộ câu hỏi cho bác sĩ",
+      "sau_lead": "Mời đặt lịch tư vấn miễn phí sau 3 ngày",
+      "kpi": "Chi phí/micro-conversion · tỷ lệ chuyển sang S4-S5",
+      "tiep_theo": "S4 (nếu hỏi về chi phí) hoặc S5 (nếu sẵn sàng đặt lịch)"
+    },
+    {
+      "chang": "S4 SỐ BUỔI & TỔNG CHI PHÍ",
+      "chan_dung": "CD1, CD3",
+      "tam_ly": "★ Đã vượt qua SỢ và NGỜ. Muốn làm, chỉ đang tính xem có kham nổi lâu dài không.",
+      "rao_can": "BỀN",
+      "chien_dich": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost · PHI | V2 | ThreadLift | S4 | Sessions & Total Cost",
+      "tu_khoa": "how long does thread lift last · how many threads do i need · thread lift package price · thread lift maintenance",
+      "thong_diep": "★ Nói thẳng tổng liệu trình và chi phí duy trì — thứ cả ngành né tránh",
+      "bang_chung": "Bảng liệu trình từng buổi · giá/buổi VÀ giá gói · thời gian giữ · nhịp duy trì",
+      "lp": "LP3",
+      "chuyen_doi": "Tải bảng liệu trình & chi phí (PDF)",
+      "sau_lead": "Gọi trong 24h, ⛔ không chào giá qua điện thoại — mời đến tư vấn",
+      "kpi": "★ Chi phí/khách ĐẾN KHÁM. ⛔ Không đánh giá bằng CPL",
+      "tiep_theo": "S5"
+    },
+    {
+      "chang": "S5 CHỌN NƠI LÀM",
+      "chan_dung": "CD2, CD3, CD4",
+      "tam_ly": "Đã quyết làm. Đang chọn giữa 2-3 phòng khám.",
+      "rao_can": "NGẠI",
+      "chien_dich": "PHI | V1 | ThreadLift | S5 | Book BGC",
+      "tu_khoa": "thread lift bgc · thread lift taguig · best thread lift clinic near me · book thread lift",
+      "thong_diep": "Vùng + bác sĩ + lịch trống + tư vấn miễn phí",
+      "bang_chung": "Địa chỉ · chỉ đường · chỗ đỗ xe · giờ mở cửa · bác sĩ",
+      "lp": "LP4",
+      "chuyen_doi": "Đặt lịch tư vấn miễn phí",
+      "sau_lead": "Xác nhận lịch trong 2h · nhắc lịch T-1 ngày và T-2h",
+      "kpi": "Chi phí/booking · tỷ lệ booking→đến khám",
+      "tiep_theo": "S6"
+    },
+    {
+      "chang": "S6 SAU ĐIỀU TRỊ & QUAY LẠI",
+      "chan_dung": "Khách đã làm",
+      "tam_ly": "Lo về sưng, bầm, kết quả chưa thấy ngay.",
+      "rao_can": "BỀN",
+      "chien_dich": "Không chạy ads",
+      "tu_khoa": "thread lift aftercare · swelling after thread lift",
+      "thong_diep": "Trấn an bằng mốc thời gian thật",
+      "bang_chung": "Lịch tái khám · kênh liên hệ 24/7",
+      "lp": "Trang CRM, không chạy ads",
+      "chuyen_doi": "Đặt lịch tái khám · giới thiệu bạn",
+      "sau_lead": "Nhắc lịch duy trì theo B09",
+      "kpi": "Tỷ lệ quay lại · tỷ lệ giới thiệu",
+      "tiep_theo": "Dịch vụ thứ hai (Skin Rejuvenation / Melasma)"
+    }
+  ],
+  "tu_khoa": [
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S2 | Thread vs Filler",
+      "nhom_qc": "So sanh - Thread vs Filler",
+      "tu_khoa": "thread lift vs filler",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P3",
+      "chang": "S2",
+      "chan_dung": "CD1",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Trung bình",
+      "win": "3/4",
+      "lp": "LP1",
+      "thong_diep": "Two different jobs. See which one fits your face.",
+      "ghi_chu": "⛔ Không bán Sunwoo ở mẫu này"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S2 | Thread vs Filler",
+      "nhom_qc": "So sanh - Thread vs Filler",
+      "tu_khoa": "is thread lift worth it",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P3",
+      "chang": "S2",
+      "chan_dung": "CD1",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/4",
+      "lp": "LP1",
+      "thong_diep": "What it does, how long it lasts, who it suits.",
+      "ghi_chu": "Ý định đọc, không phải ý định mua — bid thấp"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S2 | Thread vs Filler",
+      "nhom_qc": "So sanh - Non surgical",
+      "tu_khoa": "non surgical facelift philippines",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P3",
+      "chang": "S2",
+      "chan_dung": "CD1",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Trung bình",
+      "win": "3/4",
+      "lp": "LP1",
+      "thong_diep": "Non-surgical options, compared honestly.",
+      "ghi_chu": "⚠️ Từ khoá có 'philippines' nhưng market vẫn là V1 — Presence giới hạn vùng"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S3 | Safety & Who Performs It",
+      "nhom_qc": "An toan - Side effects",
+      "tu_khoa": "thread lift side effects",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P2",
+      "chang": "S3",
+      "chan_dung": "CD2",
+      "rao_can": "SỢ",
+      "canh_tranh": "Trung bình",
+      "win": "3/4",
+      "lp": "LP2",
+      "thong_diep": "What can happen, how we manage it, who should not have it.",
+      "ghi_chu": "⛔ Không trả lời bằng ảnh kết quả đẹp"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S3 | Safety & Who Performs It",
+      "nhom_qc": "An toan - Pain",
+      "tu_khoa": "does thread lift hurt",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P2",
+      "chang": "S3",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Thấp",
+      "win": "4/4",
+      "lp": "LP2",
+      "thong_diep": "Step by step, including what you actually feel.",
+      "ghi_chu": "Cạnh tranh thấp, ý định rõ — từ khoá tốt"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S3 | Safety & Who Performs It",
+      "nhom_qc": "An toan - Revision",
+      "tu_khoa": "thread lift gone wrong",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P2",
+      "chang": "S3",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "4/4",
+      "lp": "LP2",
+      "thong_diep": "Assessed by a board-certified dermatologist before anything else.",
+      "ghi_chu": "★ Đây là CD2 — trả được CPC cao nhất. ⛔ Không chê nơi khác"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S3 | Safety & Who Performs It",
+      "nhom_qc": "An toan - Who performs",
+      "tu_khoa": "who performs thread lift",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P2",
+      "chang": "S3",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "4/4",
+      "lp": "LP2",
+      "thong_diep": "Performed by a PDS Diplomate dermatologist.",
+      "ghi_chu": "Bằng cấp là bằng chứng khớp rào NGỜ"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost",
+      "nhom_qc": "Lieu trinh - How long",
+      "tu_khoa": "how long does thread lift last",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD1",
+      "rao_can": "BỀN",
+      "canh_tranh": "Thấp",
+      "win": "4/4",
+      "lp": "LP3",
+      "thong_diep": "A real range, and what it costs to maintain.",
+      "ghi_chu": "★★ Từ khoá lõi của bộ này. Cạnh tranh thấp, ý định cao"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost",
+      "nhom_qc": "Lieu trinh - How many",
+      "tu_khoa": "how many threads for face lift",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD1",
+      "rao_can": "BỀN",
+      "canh_tranh": "Thấp",
+      "win": "4/4",
+      "lp": "LP3",
+      "thong_diep": "Assessed per face. See the typical range and what changes it.",
+      "ghi_chu": "⛔ Không nêu con số cụ thể khi chưa có [CHỜ XÁC NHẬN] mục 2"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost",
+      "nhom_qc": "Lieu trinh - Package",
+      "tu_khoa": "thread lift package price",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD3",
+      "rao_can": "BỀN",
+      "canh_tranh": "Trung bình",
+      "win": "4/4",
+      "lp": "LP3",
+      "thong_diep": "Per-session and full-package price, both shown.",
+      "ghi_chu": "★ Điểm khác biệt: nêu CẢ HAI số"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost",
+      "nhom_qc": "Lieu trinh - Maintenance",
+      "tu_khoa": "thread lift maintenance cost",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD1",
+      "rao_can": "BỀN",
+      "canh_tranh": "Thấp",
+      "win": "4/4",
+      "lp": "LP3",
+      "thong_diep": "What it costs to keep, per year.",
+      "ghi_chu": "★ Gần như không đối thủ nào trả lời câu này"
+    },
+    {
+      "chien_dich": "PHI | V2 | ThreadLift | S4 | Sessions & Total Cost",
+      "nhom_qc": "Lieu trinh V2 - How long",
+      "tu_khoa": "how long does thread lift last",
+      "khop": "Phrase",
+      "market": "V2",
+      "geo_mode": "Presence",
+      "uu_tien": "P2",
+      "chang": "S4",
+      "chan_dung": "CD3",
+      "rao_can": "BỀN",
+      "canh_tranh": "Thấp",
+      "win": "3/4",
+      "lp": "LP3",
+      "thong_diep": "A real range, and what it costs to maintain.",
+      "ghi_chu": "⚠️ CÙNG chuỗi từ khoá với dòng V1 nhưng KHÁC market → khác chiến dịch, khác bid. Đây là cách đúng, không phải trùng lặp"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S5 | Book BGC",
+      "nhom_qc": "Chot - BGC",
+      "tu_khoa": "thread lift bgc",
+      "khop": "Exact",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P1",
+      "chang": "S5",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Cao",
+      "win": "4/4",
+      "lp": "LP4",
+      "thong_diep": "Thread lift in BGC. Free doctor consultation.",
+      "ghi_chu": "Bid cao nhất tài khoản"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S5 | Book BGC",
+      "nhom_qc": "Chot - Taguig",
+      "tu_khoa": "thread lift taguig",
+      "khop": "Exact",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P1",
+      "chang": "S5",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Trung bình",
+      "win": "4/4",
+      "lp": "LP4",
+      "thong_diep": "McKinley Hill, Taguig. Parking available.",
+      "ghi_chu": "Nêu chỗ đỗ xe — lý do huỷ hẹn có thật"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S5 | Book BGC",
+      "nhom_qc": "Chot - Near me",
+      "tu_khoa": "thread lift clinic near me",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P1",
+      "chang": "S5",
+      "chan_dung": "CD4",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Cao",
+      "win": "4/4",
+      "lp": "LP4",
+      "thong_diep": "Private suites. Lunch-hour slots.",
+      "ghi_chu": "★ 'near me' CHỈ chạy được nhờ Presence. Để Interest là hỏng hoàn toàn"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S5 | Book BGC",
+      "nhom_qc": "Chot - Dermatologist",
+      "tu_khoa": "dermatologist bgc",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P1",
+      "chang": "S5",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Cao",
+      "win": "4/4",
+      "lp": "LP4",
+      "thong_diep": "PDS Diplomate dermatologist in McKinley Hill.",
+      "ghi_chu": "Hứng cả khách tìm bác sĩ da liễu nói chung"
+    },
+    {
+      "chien_dich": "PHI | V1 | ThreadLift | S5 | Book BGC",
+      "nhom_qc": "Chot - Korean clinic",
+      "tu_khoa": "korean aesthetic clinic bgc",
+      "khop": "Phrase",
+      "market": "V1",
+      "geo_mode": "Presence",
+      "uu_tien": "P1",
+      "chang": "S5",
+      "chan_dung": "CD4",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "4/4",
+      "lp": "LP4",
+      "thong_diep": "Korean-standard protocol in McKinley Hill.",
+      "ghi_chu": "★ Khớp định vị K-beauty, cạnh tranh thấp"
+    }
+  ],
+  "phu_dinh_chung": [
+    {
+      "nhom": "Ngoài vùng",
+      "tu": "cebu",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "V4 — không đến được McKinley Hill"
+    },
+    {
+      "nhom": "Ngoài vùng",
+      "tu": "davao",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "V4"
+    },
+    {
+      "nhom": "Ngoài vùng",
+      "tu": "baguio",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "V4"
+    },
+    {
+      "nhom": "Ngoài vùng",
+      "tu": "iloilo",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "V4"
+    },
+    {
+      "nhom": "Miễn phí / tự làm",
+      "tu": "diy",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Không mua dịch vụ"
+    },
+    {
+      "nhom": "Miễn phí / tự làm",
+      "tu": "home remedy",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Không mua dịch vụ"
+    },
+    {
+      "nhom": "Miễn phí / tự làm",
+      "tu": "free",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "⚠️ PHẢI miễn trừ cho 'free consultation' — đó là CTA chính"
+    },
+    {
+      "nhom": "Việc làm",
+      "tu": "training",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Người học nghề, không phải khách"
+    },
+    {
+      "nhom": "Việc làm",
+      "tu": "certification",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Người học nghề"
+    },
+    {
+      "nhom": "Việc làm",
+      "tu": "hiring",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Ứng viên"
+    },
+    {
+      "nhom": "⛔ Ngoài phạm vi giấy phép",
+      "tu": "surgery",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "⛔ Ngoài 6 dịch vụ. Rủi ro PHÁP LÝ, không chỉ rủi ro tiền — xem lỗi ② hồ sơ thương hiệu"
+    },
+    {
+      "nhom": "⛔ Ngoài phạm vi giấy phép",
+      "tu": "facelift surgery",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "⛔ Ngoài phạm vi. ⚠️ Miễn trừ 'non surgical facelift'"
+    },
+    {
+      "nhom": "⛔ Ngoài phạm vi giấy phép",
+      "tu": "dental",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "⛔ FAQ trang production nhắc tới nha khoa — đó là lỗi ②, không phải dịch vụ thật"
+    },
+    {
+      "nhom": "Sản phẩm",
+      "tu": "cream",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Tìm mua sản phẩm, không tìm thủ thuật"
+    },
+    {
+      "nhom": "Sản phẩm",
+      "tu": "serum",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Tìm mua sản phẩm"
+    },
+    {
+      "nhom": "Giá cực đoan",
+      "tu": "cheapest",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Không khớp định vị"
+    }
+  ],
+  "phu_dinh_cheo": [
+    {
+      "nhom": "S2 không lấy truy vấn giá",
+      "tu": "price",
+      "khop": "Phrase",
+      "ap_dung": "PHI | V1 | ThreadLift | S2 | Thread vs Filler",
+      "ly_do": "Truy vấn giá thuộc S4 và cần LP3. Để S2 hứng là đổ người sẵn sàng mua vào trang giáo dục"
+    },
+    {
+      "nhom": "S2 không lấy truy vấn giá",
+      "tu": "cost",
+      "khop": "Phrase",
+      "ap_dung": "PHI | V1 | ThreadLift | S2 | Thread vs Filler",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "S4 không lấy truy vấn chọn nơi",
+      "tu": "near me",
+      "khop": "Phrase",
+      "ap_dung": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost",
+      "ly_do": "Thuộc S5, cần LP4"
+    },
+    {
+      "nhom": "S4 không lấy truy vấn chọn nơi",
+      "tu": "clinic",
+      "khop": "Phrase",
+      "ap_dung": "PHI | V1 | ThreadLift | S4 | Sessions & Total Cost",
+      "ly_do": "Thuộc S5"
+    },
+    {
+      "nhom": "S5 không lấy truy vấn học",
+      "tu": "what is",
+      "khop": "Phrase",
+      "ap_dung": "PHI | V1 | ThreadLift | S5 | Book BGC",
+      "ly_do": "Đổ người đang đọc vào trang đặt lịch là lãng phí bid cao nhất tài khoản"
+    },
+    {
+      "nhom": "S5 không lấy truy vấn học",
+      "tu": "vs",
+      "khop": "Phrase",
+      "ap_dung": "PHI | V1 | ThreadLift | S5 | Book BGC",
+      "ly_do": "Thuộc S2"
+    },
+    {
+      "nhom": "Chặn chéo dịch vụ",
+      "tu": "hair",
+      "khop": "Phrase",
+      "ap_dung": "Toàn bộ chiến dịch ThreadLift",
+      "ly_do": "Thuộc bộ Meso Hair Therapy, có chân dung và landing riêng"
+    },
+    {
+      "nhom": "Chặn chéo dịch vụ",
+      "tu": "acne",
+      "khop": "Phrase",
+      "ap_dung": "Toàn bộ chiến dịch ThreadLift",
+      "ly_do": "Thuộc bộ Acne Treatment"
+    }
+  ],
+  "quy_trinh_phu_dinh": [
+    "Tần suất: rà search terms 2 lần/tuần ở Pha 1 (thứ Ba và thứ Năm), 1 lần/tuần từ Pha 2.",
+    "Mỗi lần thêm phủ định PHẢI ghi lý do vào file JSON này. Không ghi thì ba tháng sau không ai biết vì sao chặn, và sẽ có người mở lại.",
+    "⚠️ Trước khi thêm một từ vào phủ định chung, kiểm xem nó có nằm trong từ khoá đang chạy không — 'free' là ví dụ kinh điển (free consultation là CTA chính).",
+    "Truy vấn ngoài vùng (Cebu, Davao…) xuất hiện dù đã đặt Presence → kiểm lại cài đặt geo TRƯỚC khi thêm phủ định. Phủ định chỉ chữa triệu chứng.",
+    "Truy vấn ngoài phạm vi giấy phép (surgery, dental) là ưu tiên chặn cao nhất — đó là rủi ro pháp lý, không chỉ là lãng phí ngân sách."
+  ],
+  "nguong": [
+    {
+      "quy_tac": "CPL vượt ngưỡng",
+      "he_so": 1.5,
+      "moc": "cpl",
+      "hanh_dong": "Hạ bid 15%, rà search terms, kiểm trang đích. ⛔ CHƯA cắt — CPL không phải chỉ số quyết định của gói này"
+    },
+    {
+      "quy_tac": "★ Chi phí/khách ĐẾN KHÁM vượt ngưỡng",
+      "he_so": 1.5,
+      "moc": "chi_phi_show_up",
+      "hanh_dong": "★ Đây mới là tín hiệu cắt. Kiểm geo TRƯỚC, rồi mới kiểm trang đích và chất lượng tư vấn"
+    },
+    {
+      "quy_tac": "Chi nhiều, 0 lead",
+      "he_so": 3.0,
+      "moc": "cpl",
+      "hanh_dong": "Tạm dừng từ khoá, rà search terms trước khi xoá"
+    },
+    {
+      "quy_tac": "Tỷ lệ booking→đến khám dưới 50%",
+      "he_so": 0.5,
+      "moc": "show_up",
+      "hanh_dong": "⚠️ Vấn đề VẬN HÀNH, không phải vấn đề quảng cáo. Rà nhắc lịch + minh bạch giá trước khi đến"
+    },
+    {
+      "quy_tac": "Frequency Meta trên 3 trong 7 ngày",
+      "he_so": 3.0,
+      "moc": "frequency",
+      "hanh_dong": "Đổi creative. ⛔ Đừng tăng ngân sách"
+    }
+  ],
+  "lo_trinh": [
+    {
+      "pha": "Pha 1 — Học",
+      "thoi_gian": "Tuần 1-6",
+      "dieu_kien": "Chỉ chạy V1. Manual CPC toàn bộ. Phrase + Exact, ⛔ không Broad",
+      "chien_luoc": "Bật S3, S4, S5 ở V1. Chưa bật S2 và chưa bật V2",
+      "chuyen_doi": "Lead (form + Messenger có số) · tải PDF liệu trình",
+      "bat_buoc": "★ Gắn đủ 3 tag CRM (vung/dich_vu/chang) từ NGÀY ĐẦU. Không có tag thì Pha 2 không làm được. Chốt 4 định nghĩa (lead hợp lệ/rác/booking/đến khám) bằng văn bản"
+    },
+    {
+      "pha": "Pha 2 — Chuẩn",
+      "thoi_gian": "Tuần 7-14",
+      "dieu_kien": "Đã có ≥30 lead có tag vùng và đã biết chi phí/show-up theo vùng",
+      "chien_luoc": "Chuyển Max conversions theo BOOKING, ⛔ không theo Lead. Bật V2 cho S4. Bật S2 nuôi phễu",
+      "chuyen_doi": "Booking (lịch có ngày-giờ, khách đã xác nhận)",
+      "bat_buoc": "⛔ Không đặt mục tiêu tối ưu theo 'Lead' — đó là dạy máy đi tìm thêm lead V4"
+    },
+    {
+      "pha": "Pha 3 — Mở rộng",
+      "thoi_gian": "Tuần 15+",
+      "dieu_kien": "Chi phí/show-up ổn định 4 tuần liền",
+      "chien_luoc": "Mở nhóm N1 Hàn Quốc NẾU có nhân sự nói tiếng Hàn. Cân nhắc V3 cho Thread Lift (giá trị ca cao). Mở bộ dịch vụ thứ hai",
+      "chuyen_doi": "Booking + ca chốt",
+      "bat_buoc": "⛔ Không mở N1 khi chưa có người nghe máy tiếng Hàn. ⛔ Không mở V4 khi CRM chưa chứng minh có ca thật từ ngoài Metro"
+    }
+  ],
+  "quy_tac_canh_tranh": [
+    {
+      "hang_muc": "Đối thủ có tên",
+      "quy_tac": "⛔ Không nêu tên hạ thấp bất kỳ phòng khám nào. So sánh bằng bộ tiêu chí khách quan để khách tự đánh giá"
+    },
+    {
+      "hang_muc": "Khách đi sửa lại (CD2)",
+      "quy_tac": "⛔ Không bình luận về nơi khách đã làm trước đó. Bước đầu luôn là KHÁM ĐÁNH GIÁ LẠI, không phải phương án xử lý"
+    },
+    {
+      "hang_muc": "Đấu giá từ khoá thương hiệu đối thủ",
+      "quy_tac": "[CHỜ XÁC NHẬN] chính sách của phòng khám. Mặc định ⛔ KHÔNG chạy — vừa đắt vừa rủi ro khiếu nại"
+    },
+    {
+      "hang_muc": "So sánh với Hàn Quốc",
+      "quy_tac": "Được nói 'Korean-standard protocol'. ⛔ Không nói 'tốt như Seoul' hay 'thay thế việc bay sang Hàn' — đó là claim không chứng minh được"
+    },
+    {
+      "hang_muc": "Giá đối thủ",
+      "quy_tac": "⛔ Không nêu giá của phòng khám khác trong quảng cáo, kể cả khi đúng"
+    }
+  ],
+  "ab_test": [
+    {
+      "test": "★ T1 — Nêu tổng chi phí liệu trình hay không",
+      "a": "LP3 nêu CẢ giá/buổi VÀ giá trọn gói + chi phí duy trì/năm",
+      "b": "LP3 chỉ nêu 'starts at ₱X'",
+      "chi_so": "★ Chi phí/khách ĐẾN KHÁM. ⛔ KHÔNG đo bằng CPL — nêu tổng sẽ làm CPL xấu đi và làm tỷ lệ đến khám tốt lên",
+      "thoi_gian": "6 tuần"
+    },
+    {
+      "test": "T2 — Headline nêu bằng cấp hay nêu công nghệ",
+      "a": "'PDS Diplomate Dermatologist'",
+      "b": "'Korean Xline Thread Technology'",
+      "chi_so": "CTR + tỷ lệ lead→booking",
+      "thoi_gian": "4 tuần"
+    },
+    {
+      "test": "T3 — Primary text Taglish hay English",
+      "a": "Taglish, có người bản địa duyệt",
+      "b": "English chuẩn",
+      "chi_so": "CTR + chi phí/lead trên Meta",
+      "thoi_gian": "4 tuần"
+    },
+    {
+      "test": "T4 — CTA tư vấn miễn phí hay tải PDF",
+      "a": "'Free doctor consultation'",
+      "b": "'Download the treatment & cost guide'",
+      "chi_so": "Chi phí/khách đến khám",
+      "thoi_gian": "6 tuần"
+    }
+  ],
+  "rui_ro": [
+    {
+      "rui_ro": "★ Geo để mặc định Presence-or-Interest",
+      "kiem_soat": "Kiểm ở 4 chỗ: cài đặt chiến dịch · cột geo_mode của mọi dòng từ khoá · tiêu chí ⑦ bảng chấm 14 điểm · checklist 12 ô trước khi bật. Đây là rủi ro số 1 và nó IM LẶNG"
+    },
+    {
+      "rui_ro": "Quảng cáo dịch vụ ngoài phạm vi giấy phép",
+      "kiem_soat": "Phủ định 'surgery' và 'dental' ở cấp tài khoản. Xoá lỗi ② khỏi FAQ trang production trước khi chạy"
+    },
+    {
+      "rui_ro": "Dùng 'written guarantee' trong creative",
+      "kiem_soat": "Từ cấm trong bảng §7 file pháp lý. Rà tự động mọi output trước khi xuất"
+    },
+    {
+      "rui_ro": "Đánh giá S4 bằng CPL rồi cắt nhầm",
+      "kiem_soat": "Khoá cứng: chiến dịch S4 chỉ được đánh giá bằng chi phí/show-up, cửa sổ tối thiểu 6 tuần"
+    },
+    {
+      "rui_ro": "Chạy ads 24/7 mà chỉ trực 9-18h",
+      "kiem_soat": "Khung 20-23h là khung nhắn tin mạnh nhất ở PH. Hoặc giới hạn lịch chạy, hoặc mở ca trực tối. Không có cách thứ ba"
+    },
+    {
+      "rui_ro": "Không gắn tag CRM từ ngày đầu",
+      "kiem_soat": "Việc 30 phút ở tuần 1, hoặc là việc không bao giờ làm được nữa. Đưa vào checklist bắt buộc trước khi bật"
+    },
+    {
+      "rui_ro": "Mở V3/V4 vì CPL rẻ",
+      "kiem_soat": "V3 chỉ cho dịch vụ giá trị ca cao, V4 cần CRM chứng minh có ca thật. CPL rẻ ở vùng xa là ảo giác"
+    }
+  ],
+  "hook_format": [
+    {
+      "chang": "S4",
+      "chan_dung": "CD1",
+      "hook": "\"Ilang sessions ba talaga, at magkano lahat-lahat?\" — sinagot namin nang diretso, kasama ang maintenance cost",
+      "format": "Carousel 5 khung: buổi 1 → buổi 2 → mốc thấy kết quả → giữ bao lâu → chi phí duy trì/năm",
+      "muc_tieu": "Cùng mục tiêu với Search S4: tải bảng liệu trình PDF"
+    },
+    {
+      "chang": "S3",
+      "chan_dung": "CD2",
+      "hook": "\"Who actually performs the procedure?\" — a PDS Diplomate dermatologist, and here is what that means",
+      "format": "Video dọc 30s quay bác sĩ nói, phụ đề English",
+      "muc_tieu": "Tải bộ câu hỏi nên hỏi bác sĩ"
+    },
+    {
+      "chang": "S5",
+      "chan_dung": "CD4",
+      "hook": "Lunch-hour slot sa McKinley Hill. Private suite, walang nakakakita.",
+      "format": "Ảnh tĩnh phòng riêng + text overlay ngắn",
+      "muc_tieu": "Đặt lịch tư vấn miễn phí"
+    }
+  ]
+}
